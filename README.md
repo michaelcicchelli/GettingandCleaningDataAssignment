@@ -1,4 +1,4 @@
-GettingandCleaningDataAssignment
+Getting and Cleaning Data Assignment
 
 The data source can be downloaded and viewed manually at the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
@@ -16,7 +16,7 @@ The run_analysis.R script performs the following functions:
     g. subject_test.txt
     h. subject_train.txt
   3. Calculates Mean and Standard Deviation for each subject, each activity, and each measurement type
-  4. Creates competedata_merged.txt (all relevant measurements) and final_tidy_dataset.txt (Mean and Standard from completedata_merged.txt)
+  4. Creates competedata_merged.txt (all relevant measurements) and final_tidy_dataset.txt (Mean and Standard from                         completedata_merged.txt)
 
 Note: the plyr and data.table R packages must be installed in order to run the run_analysis.R script successfully.
 These packages can be installed using the insall.packages("plyr") and install.packages("data.table") commands.
