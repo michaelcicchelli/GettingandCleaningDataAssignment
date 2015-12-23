@@ -24,7 +24,7 @@ bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of e
 angle(): Angle between two vectors
 
 
-Variable Listing:
+Full Variable Listing:
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
