@@ -23,7 +23,7 @@
 	ytestgroup <- read.table("test/y_test.txt")
 	xtraingroup <- read.table("train/X_train.txt")
 	ytraingroup <- read.table("train/y_train.txt")
-	ls()
+	
 
 #Combine test and train datasets and extract datapoints of mean and standard deviation
 	xgroupraw <- rbind(xtestgroup, xtraingroup)
